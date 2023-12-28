@@ -11,6 +11,8 @@ Before using the application, you must have an OpenAI API Key. Add your API key 
 
 
 ### Installation
-git clone https://github.com/shreyasrajiv327/your-repo.git
-cd your-repo
+git clone https://github.com/shreyasrajiv327/Text-Translator.git
+cd Text-Translator
+
+
 
