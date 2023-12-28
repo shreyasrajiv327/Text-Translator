@@ -15,4 +15,5 @@ git clone https://github.com/shreyasrajiv327/Text-Translator.git
 cd Text-Translator
 
 
-
+### Usage
+streamlit run main.py
